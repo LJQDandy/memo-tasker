@@ -1,5 +1,7 @@
 # Memo Tasker
 
+![Memo Tasker 主界面截图](assets/screenshot.png)
+
 一个面向 Windows 的本地任务记录工具，包含两个界面：
 
 - 主界面：录入、编辑、完成和筛选任务
